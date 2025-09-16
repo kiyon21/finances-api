@@ -1,7 +1,14 @@
 package com.financesapi.entity;
 
 import jakarta.persistence.*;
+import lombok.*;
 
+import java.util.Date;
+
+@Data
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
 @Entity
 @Table(name="users")
 public class User {
@@ -16,6 +23,6 @@ public class User {
 
     private String firstName;
     private String lastName;
-    private String createdAt;
+    private Date createdAt;
 
 }

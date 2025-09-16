@@ -1,0 +1,12 @@
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/dto/AuthResponse.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/entity/User.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/config/SecurityConfig.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/dto/UserDTO.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/service/AuthServiceImpl.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/util/JwtUtil.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/controller/AuthController.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/repository/UserRepository.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/service/AuthService.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/dto/RegisterRequest.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/Main.java
+/Users/kiyonfarokhi/side-projects/finances-api/src/main/java/com/financesapi/dto/LoginRequest.java
